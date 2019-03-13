@@ -1,0 +1,38 @@
+body {
+  background-color: #fff4e3;
+}
+
+hr {
+  border-style: none;
+  border-top: 7px dotted #ffcdab;
+  width: 5%;
+}
+
+h1 {
+  color: #5d5d5a;
+  font-family: "Georgia";
+}
+
+h3 {
+  color: #5d5d5a;
+}
+
+p {
+  color: #5d5d5a;
+  font-family: "Times New Roman";
+}
+
+ul {
+  color: #5d5d5a;
+  font-family: "Times New Roman";
+}
+
+ol {
+  color: #5d5d5a;
+  font-family: "Times New Roman";
+}
+
+table {
+  color: #5d5d5a;
+  font-family: "Times New Roman";
+}
